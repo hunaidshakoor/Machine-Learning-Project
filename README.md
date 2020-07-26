@@ -1,0 +1,1 @@
+This project is working through Chapter 2: End to End Machine Learning Project from "Hands On Machine Learning with Sci-Kit Learn and TensorFlow"
